@@ -12,7 +12,7 @@ Follow the comands below to finish setting up
 
 ```
 cd /folder/where/you/want/to/work
-git clone <>
+git clone https://github.com/xkmato/agricwithpandas
 cd agricwithpandas
 jupyter notebook
 ```
