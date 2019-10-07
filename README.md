@@ -39,4 +39,3 @@ This is going to be an interactive workshop and not a lecture. I will only be fa
   * Compare Uganda deforestration over the years to The Gambia
 3. Plot the productivity of France's land under cereal production over the years
   * Compare that to Uganda
-4. Rural to Urban migration in Uganda
